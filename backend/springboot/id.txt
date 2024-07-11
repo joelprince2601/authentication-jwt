@@ -1,0 +1,5 @@
+hello=1
+how are you=2
+bye=3
+help=4
+status=5
